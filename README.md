@@ -1,0 +1,2 @@
+# rag-service
+RAG application
